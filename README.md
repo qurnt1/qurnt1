@@ -1,14 +1,39 @@
-# Salut, moi c'est Quentin 👋
+<div align="center">
 
-🎓 Étudiant en Data Science (3ème année) @ EFREI
-💼 Alternant Data Engineering / Analytics
-📍 Paris, France
+Hi, I'm Quentin 👋
+Data Science Student | Future Big Data & Machine Learning Engineer
 
-## 🛠️ Stack technique
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Qlik](https://img.shields.io/badge/Qlik-009848?style=flat&logo=qlik&logoColor=white)
+📍 Niort → Bordeaux | 🎓 Engineering School (Big Data & ML) — starting next year
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=qurnt1&show_icons=true&theme=dark)
+[
+
+</div>
+
+🙋 About Me
+I'm a Data Science student specializing in Big Data & Machine Learning, currently in an apprenticeship where I work on data analytics, reporting, and automation. Next year, I'll be joining an engineering school in Bordeaux to go deeper into ML and large-scale data systems.
+
+I'm passionate about data engineering, AI/ML, and financial markets — always building side projects at the intersection of these fields.
+
+🛠️ Tech Stack
+Data & Analytics
+
+Dev & Tools
+
+🔭 Interests
+📊 Data Engineering & Analytics — pipelines, dashboards, automation
+
+🤖 AI & Machine Learning — LLMs, deep learning, generative AI
+
+📈 Financial Markets — trading, quant strategies, crypto
+
+📈 GitHub Stats
+<div align="center">
+
+</div>
+
+📬 Contact Me
+<div align="center">
+
+[
+
+</div>
