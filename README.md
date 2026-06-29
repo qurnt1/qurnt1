@@ -37,28 +37,3 @@ I'm passionate about **data engineering**, **AI/ML**, and **financial markets**,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## Interests
-
-- 📊 Data Engineering & Analytics — pipelines, dashboards, automation
-- 🤖 AI & Machine Learning — LLMs, deep learning, generative AI
-- 📈 Financial Markets — trading, quantitative strategies, crypto
-- 🛠️ Side projects — data tools, automation, analytics apps
-
----
-
-## GitHub Stats
-
-![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurnt1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qurnt1&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quentin%20Chabot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chabotquentin/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chbtquentinpro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-qurnt1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qurnt1)
-
----
