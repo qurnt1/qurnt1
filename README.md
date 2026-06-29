@@ -1,16 +1,14 @@
-## Hi there 👋
+# Salut, moi c'est Quentin 👋
 
-<!--
-**qurnt1/qurnt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Data Science (3ème année) @ EFREI
+💼 Alternant Data Engineering / Analytics
+📍 Paris, France
 
-Here are some ideas to get you started:
+## 🛠️ Stack technique
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-009848?style=flat&logo=qlik&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=qurnt1&show_icons=true&theme=dark)
