@@ -2,10 +2,6 @@
 
 **Data Science Student | Future Big Data & Machine Learning Engineer**
 
-📍 Niort → Bordeaux, France  
-🎓 Engineering School (Big Data & ML) — starting next year  
-💼 Apprenticeship in data analytics, reporting, and automation  
-
 ---
 
 ## About Me
