@@ -10,7 +10,7 @@ I'm a Data Science student specializing in **Big Data** and **Machine Learning**
 
 Next year, I'll be joining an engineering school in Bordeaux to go deeper into machine learning and large-scale data systems.
 
-I'm passionate about **data**, **AI**, and **finance**, and I enjoy building side projects at the intersection of these fields.
+I'm passionate about **data**, **AI**, **automation**, and **finance**, and I enjoy building side projects at the intersection of these fields.
 
 ---
 
