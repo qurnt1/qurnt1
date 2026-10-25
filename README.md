@@ -5,7 +5,7 @@
 
 Passionné par la **data**, l’**IA**, l’**automatisation** et la **finance**, j’aime aussi créer des projets à la croisée de ces domaines.
 
-Mon objectif : devenir **AI Engineer** ou **Machine Learning Engineer** dans le domaine de la banque ou finance.
+Mon objectif : devenir **Applied AI Engineer** ou **Machine Learning Engineer** dans le domaine de la banque ou finance.
 
 ---
 
